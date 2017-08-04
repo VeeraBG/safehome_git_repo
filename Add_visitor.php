@@ -11,7 +11,7 @@ if(isset($_POST['visitor']))
 
 $name1=$_POST['name'];
 $name=serialize($name1);
-
+//This is comment...
 $lname1=$_POST['lname'];
 $lname=serialize($lname1);
  $mbno1=$_POST['mbno'];
