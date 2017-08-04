@@ -75,7 +75,7 @@ $.post("edit_owner.php",{str:str},function(data ) {  //location.reload();
         </div>
 		<div class="col-sm-3">
    <input type="button" class="btn btn-danger"   onClick="searchdate()" value="Search"  />
-        </div>  -->
+        </div> this is new comment added in git hub  -->
 		
 
 		
