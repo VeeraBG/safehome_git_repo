@@ -8,7 +8,7 @@ $get_blocks=$obj->getblock_details();
 $code1="";$code2="";$code3="";$code4="";$code5="";$code6="";$code7="";
 if(isset($_POST['visitor']))
 {
-
+// This is new branch created by veera.
 $name1=$_POST['name'];
 $name=serialize($name1);
 
